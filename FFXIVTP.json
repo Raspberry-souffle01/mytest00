@@ -1,0 +1,20 @@
+[
+  {
+    Author: 'maohaorenhuai',
+    Name: 'FF TP Plugin',
+    Description: '自用.',
+    InternalName: 'FFTPPlugin',
+    AssemblyVersion: '1.0.0.0',
+    TestingAssemblyVersion: null,
+    RepoUrl: 'https://github.com/Raspberry-souffle01/mytest',
+    ApplicableVersion: 'any',
+    DalamudApiLevel: 10,
+    Punchline: 'A short blurb about what this plugin is.',
+    IsHide: false,
+    IsTestingExclusive: false,
+    DownloadLinkInstall: 'https://github.com/Raspberry-souffle01/mytest/archive/refs/tags/FFXIV0.zip',
+    DownloadLinkTesting: 'https://github.com/Raspberry-souffle01/mytest/archive/refs/tags/FFXIV0.zip',
+    DownloadLinkUpdate: 'https://github.com/Raspberry-souffle01/mytest/archive/refs/tags/FFXIV0.zip',
+    LastUpdate: '1701231234',
+  },
+]
